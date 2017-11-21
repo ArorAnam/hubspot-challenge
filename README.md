@@ -1,7 +1,6 @@
 # hubspot_challenge
-Challenge for hubspot full time software engineer
-
-HubSpot Project
+## Challenge for hubspot full time software engineer
+### BTW I got to the next round :)
 
 It’s your first day at HubSpot, and you’re in charge of writing the logic to send invitations to a special two-day event in each country for HubSpot’s partners in those countries. We need to find the dates that’ll work best based on survey results that partners have sent in and determine how many people can attend.
 
